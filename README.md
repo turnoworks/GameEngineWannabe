@@ -10,4 +10,4 @@ GameEngineWannabe (GEW): Just a basic OpenGL game engine in C/C++ written by/for
 *TODO*
 
 ### Windows
-*In progress*
+*TODO*
