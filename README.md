@@ -1,5 +1,5 @@
 # GameEngineWannabe
-GameEngineWannabe (GEW): Just a minimalistic OpenGL game engine in C, written by/for cool TSI people.
+GameEngineWannabe (GEW): Just a minimalistic game engine in C/C++, written by/for cool TSI people.
 
 ## Installation
 
